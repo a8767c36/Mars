@@ -1,0 +1,13 @@
+After the initial establishment of settlements on Mars, including all the necessary life-support systems, people will ask how to quantitatively measure the success of a martian settlement. I propose two metrics of success:
+
+* The obvious metric of success should be the amount of biomass accumulated on mars (including food production) or the number of humans living on mars on any given day.
+
+* Another interesting metric is the total amount of oxygen that the martian settlement has emitted to date. This is interesting because it provides a sum over oxygen released by plant growth but also oxygen released by the reduction of metal oxides (metal ores). Therefore, as the construction projects on mars continue, it is probable that metals are going to be used, and if they are made from metal ores found on the surface of mars, then that means that the metals have to be reduced in a reduction furnace. This process releases large amounts of oxygens (mixed with other fumes) and is therefore a metric of success.
+
+The interesting thing about the oxygen metric is that it provides a sum over different branches of the economy, including agriculture and blue-collar construction.
+
+Also, an enrichment with oxygen of the martian atmosphere is definitely a sign of progressing planet-wide terraforming, which is also an interesting aspect to muse about.
+
+
+
+
